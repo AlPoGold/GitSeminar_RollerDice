@@ -1,2 +1,4 @@
-## Text for conflict
-Text for conflict
+
+# GitSeminar_RollerDice
+
+Text for getting conflict in repos
