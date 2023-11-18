@@ -33,6 +33,8 @@ class MainActivity : ComponentActivity() {
             diceImage.setImageResource(drawableRes)
         }
 
+        val tvRoll = binding.rolltv
+
     }
 }
 
